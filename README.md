@@ -1,1 +1,0 @@
-# Random-position-pick
